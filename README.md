@@ -35,7 +35,8 @@ This analysis examines order data, payment processing, and customer retention pa
 - **High-Value Retention**: Customers with initial orders exceeding $100 show retention rates higher than those with smaller initial orders.
 - **Seasonal Impact**: Cohorts acquired during festival seasons (Diwali, etc.) tend to have lower long-term retention despite higher initial acquisition numbers.
 
-  ![image](https://github.com/user-attachments/assets/2390e672-a1b5-4788-b8c4-5a661d129279)
+ ![image](https://github.com/user-attachments/assets/d0bc980e-3b94-42c1-8ce6-b12bd9ef71bb)
+
 
 
 ## Strategic Recommendations
